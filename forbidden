@@ -42,6 +42,8 @@ if (isset($_GET['id'])) {
 }
 
 /*
+<?php echo $BRANDS ?>
+<?php echo $urlPath ?>
 */
 
 ?>
